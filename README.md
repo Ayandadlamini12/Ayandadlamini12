@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayanda Dlamini</h1>
-<h3 align="center">A passionate frontend developer from Eswatini</h3>
+<h3 align="center">A passionate Full-Stack Developer & Project Manager</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 💬 Ask me about **PHP, Java, C++, Web Dev**

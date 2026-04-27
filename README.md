@@ -7,13 +7,16 @@
 
 ---
 
-### 🚀 About Me
-- 💼 Director of IT at **Full Measure of Time Digital Agency (FMT)**
-- 🧠 8+ years experience in **Software Development & IT Solutions**
-- 🎓 Computer Science & Information Engineering student (Taiwan)
-- 🛠️ I build scalable systems, business solutions & client platforms
-- 🌍 Working across **web, backend systems, and automation**
+### 🚀💬 Ask Me About
 
+- Building scalable **full-stack applications** (Laravel, Java, REST APIs)  
+- Designing and deploying **real-world business systems**  
+- **AI-powered automations** (n8n, OpenAI APIs, workflow integrations)  
+- **Cloud solutions & deployments** (Amazon Web Services, Microsoft Azure)  
+- **Server management & hosting** (CyberPanel, LiteSpeed, Linux)  
+- **System architecture, APIs & backend design**  
+- Debugging, optimization & **performance tuning**  
+- Turning ideas into **production-ready solutions** 🚀  
 ---
 
 ### 💬 Ask Me About

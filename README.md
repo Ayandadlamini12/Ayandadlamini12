@@ -29,7 +29,7 @@
 
 ### 📫 Contact Me
 - 📧 **ayandadlamini743@gmail.com**
-- 🌐 [Portfolio](https://fullmeasureoftime.com)
+- 🌐 [Portfolio](https://mrayanda.fmtagency.online)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayanda-dlamini-74167a199/)
 
 ---

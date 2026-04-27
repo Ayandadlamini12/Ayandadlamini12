@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Web Development
-![Web Dev](https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=120&section=header&text=Web%20Development&fontSize=25&fontColor=ffffff)
+![Web Dev](https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=100&section=header&text=Web%20Development&fontSize=24&fontColor=ffffff)
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
 - **Backend:** PHP (Laravel), Java (Spring Boot)  
@@ -54,7 +54,7 @@
 ---
 
 ### 🖥️ Software Engineering
-![Software Engineering](https://capsule-render.vercel.app/api?type=rect&color=0:43cea2,100:185a9d&height=120&section=header&text=Software%20Engineering&fontSize=25&fontColor=ffffff)
+![Software](https://capsule-render.vercel.app/api?type=rect&color=0:43cea2,100:185a9d&height=100&section=header&text=Software%20Engineering&fontSize=24&fontColor=ffffff)
 
 - C/C++, Java  
 - Data Structures & Algorithms  
@@ -62,8 +62,8 @@
 
 ---
 
-### 🌍 Networking & Systems
-![Networking](https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=120&section=header&text=Networking%20%26%20Systems&fontSize=25&fontColor=ffffff)
+### 🌍 Networking Systems
+![Networking](https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=100&section=header&text=Networking%20Systems&fontSize=24&fontColor=ffffff)
 
 - Network Configuration & Troubleshooting  
 - Linux System Administration  
@@ -71,8 +71,8 @@
 
 ---
 
-### ☁️ Cloud & DevOps
-![Cloud](https://capsule-render.vercel.app/api?type=rect&color=0:36d1dc,100:5b86e5&height=120&section=header&text=Cloud%20%26%20DevOps&fontSize=25&fontColor=ffffff)
+### ☁️ Cloud DevOps
+![Cloud](https://capsule-render.vercel.app/api?type=rect&color=0:36d1dc,100:5b86e5&height=100&section=header&text=Cloud%20DevOps&fontSize=24&fontColor=ffffff)
 
 - AWS / Azure (Learning & Deployment)  
 - CyberPanel, LiteSpeed  
@@ -80,8 +80,8 @@
 
 ---
 
-### 🤖 AI & Automation
-![AI](https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,100:e100ff&height=120&section=header&text=AI%20%26%20Automation&fontSize=25&fontColor=ffffff)
+### 🤖 AI Automation
+![AI](https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,100:e100ff&height=100&section=header&text=AI%20Automation&fontSize=24&fontColor=ffffff)
 
 - AI Chatbots (OpenAI, Whisper, TTS)  
 - Workflow Automation  
@@ -90,7 +90,7 @@
 ---
 
 ### 🗄️ Databases
-![Databases](https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=120&section=header&text=Databases&fontSize=25&fontColor=ffffff)
+![Databases](https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=100&section=header&text=Databases&fontSize=24&fontColor=ffffff)
 
 - MySQL  
 - Microsoft SQL Server  
@@ -98,8 +98,8 @@
 
 ---
 
-### 🎨 UI/UX & Design
-![Design](https://capsule-render.vercel.app/api?type=rect&color=0:fc466b,100:3f5efb&height=120&section=header&text=UI%2FUX%20%26%20Design&fontSize=25&fontColor=ffffff)
+### 🎨 UI UX Design
+![Design](https://capsule-render.vercel.app/api?type=rect&color=0:fc466b,100:3f5efb&height=100&section=header&text=UI%20UX%20Design&fontSize=24&fontColor=ffffff)
 
 - Figma  
 - Adobe Illustrator / Photoshop  

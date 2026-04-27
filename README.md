@@ -40,48 +40,72 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack & Expertise
 
-<p align="left">
-  
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40"/><br>Laravel
-</a>
+---
 
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java
-</a>
+### 🌐 Web Development
+![Web Dev](https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=120&section=header&text=Web%20Development&fontSize=25&fontColor=ffffff)
 
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5
-</a>
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend:** PHP (Laravel), Java (Spring Boot)  
+- **Architecture:** REST APIs, MVC  
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3
-</a>
+---
 
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/><br>Bootstrap
-</a>
+### 🖥️ Software Engineering
+![Software Engineering](https://capsule-render.vercel.app/api?type=rect&color=0:43cea2,100:185a9d&height=120&section=header&text=Software%20Engineering&fontSize=25&fontColor=ffffff)
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL
-</a>
+- C/C++, Java  
+- Data Structures & Algorithms  
+- System Design & Optimization  
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/><br>SQL Server
-</a>
+---
 
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux
-</a>
+### 🌍 Networking & Systems
+![Networking](https://capsule-render.vercel.app/api?type=rect&color=0:ff9966,100:ff5e62&height=120&section=header&text=Networking%20%26%20Systems&fontSize=25&fontColor=ffffff)
 
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma
-</a>
+- Network Configuration & Troubleshooting  
+- Linux System Administration  
+- Server Deployment  
 
-</p>
+---
 
+### ☁️ Cloud & DevOps
+![Cloud](https://capsule-render.vercel.app/api?type=rect&color=0:36d1dc,100:5b86e5&height=120&section=header&text=Cloud%20%26%20DevOps&fontSize=25&fontColor=ffffff)
+
+- AWS / Azure (Learning & Deployment)  
+- CyberPanel, LiteSpeed  
+- CI/CD Pipelines  
+
+---
+
+### 🤖 AI & Automation
+![AI](https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,100:e100ff&height=120&section=header&text=AI%20%26%20Automation&fontSize=25&fontColor=ffffff)
+
+- AI Chatbots (OpenAI, Whisper, TTS)  
+- Workflow Automation  
+- System Integration  
+
+---
+
+### 🗄️ Databases
+![Databases](https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=120&section=header&text=Databases&fontSize=25&fontColor=ffffff)
+
+- MySQL  
+- Microsoft SQL Server  
+- Optimization & Design  
+
+---
+
+### 🎨 UI/UX & Design
+![Design](https://capsule-render.vercel.app/api?type=rect&color=0:fc466b,100:3f5efb&height=120&section=header&text=UI%2FUX%20%26%20Design&fontSize=25&fontColor=ffffff)
+
+- Figma  
+- Adobe Illustrator / Photoshop  
+- Responsive Design  
+
+---
 ---
 
 ### 📊 GitHub Stats

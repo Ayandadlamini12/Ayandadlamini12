@@ -109,15 +109,18 @@
 - Responsive Design  
 
 ---
----
+
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-ayanda-s-dlamini&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ayanda-s-dlamini&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ayanda-s-dlamini&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ### ⚡ What Sets Me Apart

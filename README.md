@@ -28,9 +28,9 @@
 ---
 
 ### 📫 Contact Me
-- 📧 **ayandadlamini743@gmail.com**
+- 📧 **mrayanda@fmtagency.online**
 - 🌐 [Portfolio](https://mrayanda.fmtagency.online)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayanda-dlamini-74167a199/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mr-ayanda-s-dlamini-fmt/)
 
 ---
 
